@@ -20,19 +20,19 @@
   background-color: white;
   color: black;
 }
-/* .content p {
+.content p {
   text-align: justify;
   margin: 10px;
   padding: 10px;
-} */
+}
 #toggle {
   display: none;
 }
 .togglearea {
   background-color: #6d6a6a;
-  /* border-bottom: 2px solid white; */
+  border-bottom: 2px solid white;
   color: white;
-  /* padding: 10px; */
+  padding: 10px;
   display: flex;
   justify-content: flex-end;
 }
